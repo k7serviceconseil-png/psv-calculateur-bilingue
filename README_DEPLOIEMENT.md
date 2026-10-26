@@ -73,3 +73,17 @@ Le prix figure à **trois** endroits distincts, dans **trois dépôts** différe
 
 Les deux premiers sont proches l'un de l'autre ; le troisième est facile à
 oublier. Toute modification de prix doit passer par les trois.
+
+## Mise à jour du 26 octobre 2026 — nouvelle grille
+
+Le calculateur compare maintenant le coût estimé au prix du **PSV Stratégique**
+(une personne, analyse complète), aligné sur `regional-pricing.js` du site principal :
+
+| Marché | Avant | Après |
+|---|---|---|
+| Canada · international francophone | 495 CAD | **295 CAD** |
+| France · Belgique | 310 EUR | **220 EUR** |
+| Suisse | 300 CHF | **210 CHF** |
+| États-Unis · international | 350 USD | **250 USD** |
+| Royaume-Uni | 270 GBP | **190 GBP** |
+| Australie | 500 AUD | **350 AUD** |
